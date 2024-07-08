@@ -1,0 +1,5 @@
+train: .\images
+val: .\images
+
+nc: 12
+names: ['null','PS', 'LOBT', 'ROBT', 'LMEDIL', 'RMEDIL', 'LLATIL', 'RLATIL', 'LSUPIL', 'RSUPIL', 'LSIJ', 'RSIJ']
